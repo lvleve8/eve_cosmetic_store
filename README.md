@@ -1,7 +1,7 @@
 # eve_cosmetic_store 
 #eve cosmetics is a project where i used HTML,CSS,bootstrap to create an e-commerce website .
 #the website includes 5 pages .
-![homepage](c:\Users\Student\Downloads\homepage.jpeg)
+![homepage](![homepage](image.png))
 ![cosmetics](c:\Users\Student\Downloads\cosmetics.jpeg)
 ![myaccount](c:\Users\Student\Downloads\my account.jpeg)
 ![createaccount](c:\Users\Student\Downloads\create acount.jpeg)
