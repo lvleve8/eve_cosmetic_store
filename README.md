@@ -1,11 +1,11 @@
 # eve_cosmetic_store 
 #eve cosmetics is a project where i used HTML,CSS,bootstrap to create an e-commerce website .
 #the website includes 5 pages .
-![homepage](![homepage](image.png))
-![cosmetics](c:\Users\Student\Downloads\cosmetics.jpeg)
-![myaccount](c:\Users\Student\Downloads\my account.jpeg)
-![createaccount](c:\Users\Student\Downloads\create acount.jpeg)
-[checkout](c:\Users\Student\Downloads\check out.jpeg)
+![homepage](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![createaccount](image-3.png)
+![checkout](image-4.png)
 #a piece of html i wrote was "<!--bottom -->
   </div>
   <div class="card">
